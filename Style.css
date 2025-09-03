@@ -1,10 +1,10 @@
 /* Creación de variables a  utilizar */
 :root {
-    --primary-color: #1d573e;
-    --secondary-color: #374432;
-    --text-color: #333333;;
-    --background-color: #f4f4f4;
-    --light-gray: #ecf0f1;
+    --primary-color: #FF0505;
+    --secondary-color: #FFFF05;
+    --text-color: #97FF05;
+    --background-color: #05FFE6;
+    --light-gray: #D69EFF;
 }
 
 
@@ -276,4 +276,5 @@ del area de Estudios realizados y experiencia laboral*/
     .list li {
         text-align: center;
     }
+
 }
