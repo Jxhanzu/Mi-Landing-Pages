@@ -19,8 +19,8 @@ body {
 }
 /*Sección para cambiar color de la barra de sección*/
 .header {
-    background: #05FFE6;
-    color: #FFFF05;
+    background: #000000;
+    color: #FFA100;
     padding: 1rem 0;
     position: fixed;
     width: 100%;
@@ -71,13 +71,13 @@ body {
 }
 
 .accordion-nav .nav-link {
-    color: white; /* Cambiar color de los enlaces dentro del acordeón */
+    color: #FF0000; /* Cambiar color de los enlaces dentro del acordeón */
     padding: 0.5rem 0;
     display: block;
 }
 
 .accordion-nav .nav-link:hover {
-    color: var(--light-gray);
+    color: #FF0000;
 }
 
 /*Sección para cambiar color de las palabras en la barra de sección*/
@@ -89,7 +89,7 @@ body {
 }
 
 .nav-link:hover {
-    color: var(--primary-color);
+    color: #FF0000;
 }
 
 /* Estilos de secciones */
@@ -107,7 +107,7 @@ body {
 /*Tamaño del titulo para estudios y experiencia*/
 .section-title {
     font-size: 2rem;
-    color: var(--secondary-color);
+    color: #000000;
     margin-bottom: 2rem;
     position: relative;
     display: inline-block;
@@ -118,7 +118,7 @@ body {
     display: block;
     width: 50%;
     height: 4px;
-    background: var(--primary-color);
+    background: #000000;
     margin: 10px auto 0;
 }
 
@@ -189,8 +189,8 @@ del area de Estudios realizados y experiencia laboral*/
 
 /*Sección para cambiar el color a la letra o fondo de cada link en el Linktree */
 .linktree-link {
-    background-color: rgb(220, 200, 150);
-    color: rgb(250, 250, 250);
+    background-color: #000000;
+    color: #FFFFFF;
     text-decoration: none;
     padding: 1rem 2rem;
     width: 250px;
@@ -200,7 +200,7 @@ del area de Estudios realizados y experiencia laboral*/
 
 /*Efecto de otro color al pasar el mouse por el botón*/
 .linktree-link:hover {
-    background-color: #2980b9;
+    background-color: #000000;
 }
 
 /* Contact Form */
@@ -223,7 +223,7 @@ del area de Estudios realizados y experiencia laboral*/
 
 /*Sección para cambiar el color del botón de enviar mensaje y el color de la letra */
 .submit-button {
-    background-color: var(--primary-color);
+    background-color: #05FFE6;
     color: white;
     border: none;
     padding: 1rem;
@@ -278,6 +278,7 @@ del area de Estudios realizados y experiencia laboral*/
     }
 
 }
+
 
 
 
