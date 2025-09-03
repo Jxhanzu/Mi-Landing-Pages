@@ -13,14 +13,14 @@ body {
     line-height: 1.6;
     margin: 0;
     padding: 0;
-    background-color: var(--background-color);
-    color: var(--text-color);
+    background-color: #05FFE6;
+    color: #97FF05;
     scroll-behavior: smooth;
 }
 /*Sección para cambiar color de la barra de sección*/
 .header {
-    background: var(--secondary-color);
-    color: rgb(148, 109, 109);
+    background: #05FFE6;
+    color: #FFFF05;
     padding: 1rem 0;
     position: fixed;
     width: 100%;
@@ -278,3 +278,4 @@ del area de Estudios realizados y experiencia laboral*/
     }
 
 }
+
